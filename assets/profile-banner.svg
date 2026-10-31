@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Siti Mutiah</title><desc id="desc">Data, digital projects, and thoughtful documentation.</desc>
+  <rect width="1200" height="330" rx="20" fill="#142c3e"/>
+  <path d="M0 278 Q160 228 310 292 T640 286 T960 260 T1200 270 V330 H0Z" fill="#203d4b"/>
+  <circle cx="982" cy="164" r="101" fill="none" stroke="#8ebeb0" stroke-width="1.5" opacity=".55"/>
+  <circle cx="982" cy="164" r="70" fill="none" stroke="#8ebeb0" stroke-width="1.5" opacity=".55"/>
+  <path d="M840 164H1124 M982 23V305" stroke="#8ebeb0" opacity=".3"/>
+  <circle cx="982" cy="164" r="20" fill="#d5e8c8"/><circle cx="1053" cy="164" r="7" fill="#edba6a"/><circle cx="932" cy="94" r="5" fill="#d5e8c8"/>
+  <text x="76" y="85" fill="#b8d4cb" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">WELCOME TO MY GITHUB</text>
+  <text x="72" y="169" fill="#fffdf4" font-family="Georgia,serif" font-size="73">Siti Mutiah<tspan fill="#edba6a">.</tspan></text>
+  <text x="76" y="219" fill="#d9e6de" font-family="Arial,sans-serif" font-size="23">Data  /  Digital projects  /  Documentation</text>
+  <path d="M77 257h88" stroke="#edba6a" stroke-width="4" stroke-linecap="round"/>
+</svg>
